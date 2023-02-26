@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\bin\Debug\net6.0\CafeProgram.exe
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\bin\Debug\net6.0\CafeProgram.deps.json
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\bin\Debug\net6.0\CafeProgram.runtimeconfig.json
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\bin\Debug\net6.0\CafeProgram.dll
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\bin\Debug\net6.0\CafeProgram.pdb
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.dll
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\refint\CafeProgram.dll
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.pdb
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\CafeProgram.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CafeProgram\CafeProgram\obj\Debug\net6.0\ref\CafeProgram.dll
